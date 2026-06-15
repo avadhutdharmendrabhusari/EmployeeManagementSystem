@@ -1,0 +1,18 @@
+.card {
+  border-radius: 15px;
+}
+
+.form-control {
+  height: 45px;
+  border-radius: 8px;
+}
+
+.btn-primary {
+  height: 45px;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+body {
+  background-color: #f5f7fa;
+}

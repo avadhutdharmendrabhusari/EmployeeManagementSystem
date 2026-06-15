@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Raintree_Task\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\employeemanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employeemanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|e:\\raintree_task\\employeemanagement\\employeemanagement\\repository\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF6CD00-13FE-4D33-B6E9-041099371A79}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\repository\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAkwI0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T16:55:52.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\DTOs\\LoginDTO.cs",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "EmployeeManagement\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T15:26:32.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "EmployeeManagement\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T15:27:00.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Employee.cs",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\Employee.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA4wCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T16:55:01.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Department.cs",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T16:24:40.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\User.cs",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Models\\User.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T15:04:58.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T15:32:16.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAkwLYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T16:25:25.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfileDTO.cs",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\DTOs\\ProfileDTO.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\DTOs\\ProfileDTO.cs",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\DTOs\\ProfileDTO.cs",
+              "RelativeToolTip": "EmployeeManagement\\DTOs\\ProfileDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T14:04:43.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\DashboardController.cs",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAGwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:04:43.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\ReportController.cs",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwDUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:14:29.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T14:55:37.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\appsettings.json",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T15:15:15.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeManagement.http",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.http",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EmployeeManagement.http",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.http",
+              "RelativeToolTip": "EmployeeManagement\\EmployeeManagement.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-12T15:30:44.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Repository\\DBHelper.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Repository\\DBHelper.cs",
+              "ToolTip": "E:\\Raintree_Task\\EmployeeManagement\\EmployeeManagement\\Repository\\DBHelper.cs",
+              "RelativeToolTip": "EmployeeManagement\\Repository\\DBHelper.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T15:06:32.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

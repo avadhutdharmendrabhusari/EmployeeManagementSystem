@@ -1,0 +1,164 @@
+<div class="container-fluid mt-4">
+
+    <h2 class="dashboard-title">
+        Employee Management Dashboard
+    </h2>
+
+    <div class="row g-4 mb-4">
+
+        <div class="col-md-3">
+
+            <div
+                class="dashboard-card total-card"
+                (click)="goToEmployees()">
+
+                <h6>Total Employees</h6>
+
+                <h2>
+                    {{dashboardData?.totalEmployees}}
+                </h2>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-3">
+
+            <div
+                class="dashboard-card active-card"
+                (click)="goToActiveEmployees()">
+
+                <h6>Active Employees</h6>
+
+                <h2>
+                    {{dashboardData?.activeEmployees}}
+                </h2>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-3">
+
+            <div
+                class="dashboard-card inactive-card"
+                (click)="goToInactiveEmployees()">
+
+                <h6>Inactive Employees</h6>
+
+                <h2>
+                    {{dashboardData?.inactiveEmployees}}
+                </h2>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-3">
+
+            <div
+                class="dashboard-card department-card"
+                (click)="goToDepartments()">
+
+                <h6>Total Departments</h6>
+
+                <h2>
+                    {{dashboardData?.totalDepartments}}
+                </h2>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-lg-6 mb-4">
+
+            <div class="chart-card">
+
+                <h5>
+                    Employee Status
+                </h5>
+
+                <div class="pie-wrapper">
+
+                    <canvas
+                        baseChart
+                        [data]="pieChartData"
+                        [type]="pieChartType">
+                    </canvas>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-lg-6 mb-4">
+
+            <div class="chart-card">
+
+                <h5>
+                    Department Wise Employees
+                </h5>
+
+                <canvas
+                    baseChart
+                    [data]="barChartData"
+                    [type]="barChartType">
+                </canvas>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="chart-card">
+
+        <h5 class="mb-3">
+            Recent Employees
+        </h5>
+
+        <table class="table table-bordered">
+
+            <thead class="table-dark">
+
+                <tr>
+
+                    <th>Name</th>
+                    <th>Department</th>
+                    <th>Designation</th>
+
+                </tr>
+
+            </thead>
+
+            <tbody>
+
+                <tr
+                    *ngFor="let emp of recentEmployees">
+
+                    <td>
+                        {{emp.employeeName}}
+                    </td>
+
+                    <td>
+                        {{emp.departmentName}}
+                    </td>
+
+                    <td>
+                        {{emp.designation}}
+                    </td>
+
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+</div>

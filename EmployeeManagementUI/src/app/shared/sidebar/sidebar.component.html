@@ -1,0 +1,45 @@
+<div class="sidebar">
+
+    <h3>EMS</h3>
+
+    <ul>
+
+        <!-- ADMIN -->
+
+        <ng-container *ngIf="role === 'Admin'">
+
+            <li routerLink="/dashboard">
+                Dashboard
+            </li>
+
+            <li routerLink="/department">
+                Department
+            </li>
+
+            <li routerLink="/employee">
+                Employee
+            </li>
+
+            <li routerLink="/report">
+                Reports
+            </li>
+
+        </ng-container>
+
+        <!-- USER -->
+
+        <ng-container *ngIf="role === 'User'">
+
+            <li routerLink="/profile">
+                My Profile
+            </li>
+
+        </ng-container>
+
+        <li (click)="logout()">
+            Logout
+        </li>
+
+    </ul>
+
+</div>

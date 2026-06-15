@@ -1,0 +1,91 @@
+.dashboard-title{
+    font-weight:700;
+    margin-bottom:25px;
+}
+
+.dashboard-card{
+    border-radius:15px;
+    padding:25px;
+    color:white;
+    box-shadow:0 4px 12px rgba(0,0,0,0.15);
+    transition:.3s;
+}
+
+.dashboard-card:hover{
+    transform:translateY(-5px);
+}
+
+.total-card{
+    background:#0d6efd;
+}
+
+.active-card{
+    background:#198754;
+}
+
+.inactive-card{
+    background:#dc3545;
+}
+
+.department-card{
+    background:#6f42c1;
+}
+
+.dashboard-card h6{
+    font-size:16px;
+    margin-bottom:10px;
+}
+.chart-card{
+    background:white;
+    border-radius:15px;
+    padding:20px;
+    box-shadow:0 4px 12px rgba(0,0,0,.1);
+    height:420px;
+}
+
+.chart-card canvas{
+    max-height:280px !important;
+    max-width:100% !important;
+}
+
+.chart-card h5{
+    margin-bottom:20px;
+    font-weight:600;
+    text-align:center;
+}
+
+.pie-wrapper{
+    width:280px;
+    height:280px;
+    margin:auto;
+}
+
+.dashboard-card h2{
+    font-size:34px;
+    font-weight:700;
+}
+.chart-container {
+    height: 300px;
+    position: relative;
+}
+
+.chart-card{
+    background:white;
+    border-radius:15px;
+    padding:20px;
+    box-shadow:0 4px 12px rgba(0,0,0,.1);
+}
+
+.chart-card h5{
+    margin-bottom:20px;
+    font-weight:600;
+}
+
+.dashboard-card{
+    cursor:pointer;
+    transition:0.3s;
+}
+
+.dashboard-card:hover{
+    transform:translateY(-5px);
+}

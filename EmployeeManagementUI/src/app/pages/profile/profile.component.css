@@ -1,0 +1,40 @@
+.profile-container{
+    max-width:900px;
+    margin:auto;
+}
+
+.welcome-card{
+    background:#859ccd;
+    color:white;
+    padding:18px;
+    border-radius:15px;
+    margin-bottom:20px;
+    box-shadow:0 4px 12px rgba(0,0,0,.15);
+}
+
+.profile-card{
+    background:white;
+    padding:18px;
+    border-radius:15px;
+    box-shadow:0 4px 12px rgba(0,0,0,.1);
+}
+
+.profile-card h4{
+    margin-bottom:20px;
+    font-weight:600;
+}
+
+.table th{
+    width:220px;
+}
+
+.badge{
+    font-size:12px;
+    padding:6px 12px;
+    border-radius:20px;
+}
+.profile-container{
+    max-width:900px;
+    margin:auto;
+}
+

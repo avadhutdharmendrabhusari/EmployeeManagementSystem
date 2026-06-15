@@ -1,0 +1,132 @@
+<div class="container-fluid">
+
+    <div class="card shadow">
+
+        <div class="card-header bg-dark text-white">
+
+            <h3 class="mb-0">
+                Department Wise Employee Report
+            </h3>
+
+        </div>
+
+        <div class="card-body">
+
+            <div class="row mb-3">
+
+                <div class="col-md-4">
+
+                    <input
+                        type="text"
+                        class="form-control"
+                        placeholder="Search Employee Name"
+                        [(ngModel)]="searchText"
+                        (keyup)="applyFilter()">
+
+                </div>
+                <div class="col-md-2">
+    <button
+        class="btn btn-success w-100"
+        (click)="exportToExcel()">
+        Export Excel
+    </button>
+</div>
+
+<div class="col-md-2">
+    <button
+        class="btn btn-danger w-100"
+        (click)="exportToPdf()">
+        Export PDF
+    </button>
+</div>
+
+                <div class="col-md-3">
+
+                    <select
+                        class="form-select"
+                        [(ngModel)]="selectedStatus"
+                        (change)="applyFilter()">
+
+                        <option value="">
+                            All Status
+                        </option>
+
+                        <option value="Active">
+                            Active
+                        </option>
+
+                        <option value="Inactive">
+                            Inactive
+                        </option>
+
+                    </select>
+
+                </div>
+
+            </div>
+
+            <table class="table table-bordered table-striped">
+
+                <thead class="table-dark">
+
+                    <tr>
+
+                        <th>Department</th>
+                        <th>Employee Code</th>
+                        <th>Employee Name</th>
+                        <th>Designation</th>
+                        <th>Email</th>
+                        <th>Mobile</th>
+                        <th>Status</th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody>
+
+                    <tr *ngFor="let item of filteredReports">
+
+                        <td>{{ item.departmentName }}</td>
+
+                        <td>{{ item.employeeCode }}</td>
+
+                        <td>{{ item.employeeName }}</td>
+
+                        <td>{{ item.designation }}</td>
+
+                        <td>{{ item.email }}</td>
+
+                        <td>{{ item.mobileNo }}</td>
+
+                        <td>
+
+                            <span
+                                class="badge bg-success"
+                                *ngIf="item.employeeStatus === 'Active'">
+
+                                Active
+
+                            </span>
+
+                            <span
+                                class="badge bg-danger"
+                                *ngIf="item.employeeStatus === 'Inactive'">
+
+                                Inactive
+
+                            </span>
+
+                        </td>
+
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</div>
